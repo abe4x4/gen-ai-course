@@ -42,6 +42,9 @@ In this step, you learn to **store, query, and manipulate data** using SQL with 
 3. Run `exercises.py` and try modifying queries for practice
 4. Commit progress regularly:
 
+
+### utils.py is optional. Use plot_training() to visualize loss or accuracy of your neural network models for easier debugging.
+
 ```bash
 git add .
 git commit -m "Completed Step 4: SQL basics and Python integration"

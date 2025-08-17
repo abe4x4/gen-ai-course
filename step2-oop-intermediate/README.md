@@ -61,6 +61,8 @@ This step introduces **OOP in Python**, which is essential for building scalable
 3. Modify, extend, and create new objects to strengthen understanding.
 4. Commit progress regularly:
 
+###utils.py is optional. Use print_object_info() to inspect objects and safe_call() to safely test methods during OOP experiments.
+
 ```bash
 git add .
 git commit -m "Completed Step 2: OOP fundamentals and exercises"

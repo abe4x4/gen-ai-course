@@ -94,6 +94,8 @@ This folder contains:
 - Recursive function to calculate factorial
 - Practice defining and calling functions
 
+### utils.py is optional. Functions like print_separator() or safe_input_int() help make your experiments cleaner and safer when practicing Python basics.
+
 ---
 
 ## Instructions

@@ -34,6 +34,9 @@ In this step, you learn **the basics of neural networks** from scratch and train
 3. Modify activation functions in `utils.py` to try ReLU.
 4. Commit progress regularly:
 
+
+### utils.py is optional. Provides helper functions for text preprocessing, evaluation, and saving results.
+
 ```bash
 git add .
 git commit -m "Step 5: Deep Learning foundations and simple neural network training"

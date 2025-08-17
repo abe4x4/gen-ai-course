@@ -48,6 +48,8 @@ In this step, we learn **NumPy, Pandas, Matplotlib, and Scikit-learn**, which ar
 3. Modify the datasets or models to practice.
 4. Commit progress regularly:
 
+### utils.py is optional but recommended. Functions like load_csv() and regression_results() simplify experimentation and evaluation of ML models.
+
 ```bash
 git add .
 git commit -m "Completed Step 3: Data Science & ML basics"
